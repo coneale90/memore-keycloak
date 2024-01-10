@@ -1,2 +1,1 @@
-# memore-keycloak
-MeMore Keycloak
+# keycloak-configs
